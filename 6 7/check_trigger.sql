@@ -1,0 +1,1 @@
+﻿INSERT INTO students values(999,'Sternenko','Oleg','Denisovich','2003-11-13',101,1,12367)
